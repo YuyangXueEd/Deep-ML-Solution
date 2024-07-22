@@ -28,16 +28,21 @@ Example:
 
 Consider a matrix $A$ and a vector $v$, where 
 
-$$A = \begin{pmatrix}
+$$
+A = \begin{pmatrix}
 a_{11} & a_{12}\\
 a_{21} & a_{22}
-\end{pmatrix}$$, 
-vector 
+\end{pmatrix}
+$$
+, vector 
 
-$$v = \begin{pmatrix}
+$$
+v = \begin{pmatrix}
 v_{1}\\
 v_{2}
-\end{pmatrix}$$.
+\end{pmatrix}
+$$
+.
 
 The dot product of $A$ and $v$ results in a new vector: 
 
