@@ -34,6 +34,7 @@ a_{11} & a_{12}\\
 a_{21} & a_{22}
 \end{pmatrix}
 $$
+
 , vector 
 
 $$
@@ -42,6 +43,7 @@ v_{1}\\
 v_{2}
 \end{pmatrix}
 $$
+
 .
 
 The dot product of $A$ and $v$ results in a new vector: 
